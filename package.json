@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@jimp/core": "^1.6.0",
     "@whiskeysockets/baileys": "^6.7.9",
+    "@jimp/core": "^0.16.1",
     "axios": "^1.7.9",
     "canvas": "^2.11.2",
     "dotenv": "^16.4.7",
@@ -27,6 +27,7 @@
     "node-schedule": "^2.1.1",
     "path": "^0.12.7",
     "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0",
     "sharp": "^0.32.6"
   },
   "author": "Goulart",
